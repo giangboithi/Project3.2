@@ -1,0 +1,75 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+
+#homebanner{
+        background-color:rgb(208, 208, 208);
+        padding: 2%;
+        border-radius: 8%;
+    img{
+        margin-left: 47%;
+    }
+    a{
+        text-align: center;
+        font-family: "sauna-new", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+        font-size: 35px;
+        text-decoration: none;
+        margin-left:4%;
+        color: rgb(255, 255, 255);
+    }
+    nav{
+        text-align: center;
+    }
+}
+#header{
+    text-align: center;
+        font-family: "sauna-new", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+        font-size: 40px;
+        color: rgb(241 83 86);
+}
+
+#caption{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 6%;
+    margin-right: 12%;
+    font-family: "futura-pt", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        font-size: 33px;
+  color:#343434;
+}
+
+#merch{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+#merchtwo{
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    border: #ffffff;
+    border-radius: 100%;
+    border-width: 40%;
+    margin-left: 3%;
+}
+
+#image{
+    margin-left: 13%;
+}
