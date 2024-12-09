@@ -19,14 +19,14 @@
         font-size: 40px;
         text-decoration: none;
         margin-left:4%;
-        color: rgb(33,115, 166);
+        color: rgb(190, 88, 89);
     }
     nav{
         text-align: center;
     }
 }
 body{
-    background-color: rgba(241,83,86,50%);
+    background-color: rgba(241,83,86,40%);
 }
 
 #header{
@@ -35,7 +35,7 @@ body{
         font-weight: 900;
         font-style: normal;
         font-size: 50px;
-        color: rgb(0, 0, 0);
+        color: rgb(190, 65, 67);
 }
 
 
@@ -44,7 +44,7 @@ h3{
         font-weight: 900;
         font-style: bold;
         font-size: 40px;
-        color: rgba(33,115, 166,100%);
+        color: rgb(190, 88, 89);
 }
 p{
     font-family: "futura-pt", sans-serif;
@@ -79,8 +79,8 @@ img{
 }
 
 #homebanner a:hover {
-    color: rgb(33,115, 166);
-    border: 2px solid rgb(33,115, 166);
+    color: rgb(229, 108, 108);
+    border: 2px solid rgb(190, 88, 89);
     border-radius: 30%;
     background-color: white;
     padding: 1%;

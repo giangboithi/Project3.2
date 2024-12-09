@@ -21,7 +21,7 @@ body{
         font-size: 40px;
         text-decoration: none;
         margin-left:4%;
-        color: rgb(0, 0, 0);
+        color: rgb(186, 143, 58);
     }
     nav{
         text-align: center;
@@ -35,7 +35,7 @@ body{
         font-weight: 900;
         font-style: normal;
         font-size: 35px;
-        color: rgb(252, 170, 5);
+        color: rgb(255, 182, 35);
 }
 
 
@@ -44,7 +44,7 @@ h2{
         font-weight: 900;
         font-style: normal;
         font-size: 55px;
-        color: rgb(0, 0, 0);
+        color: rgb(186, 143, 58);
         margin-left: 8%;
 }
 
@@ -58,7 +58,7 @@ h2{
         font-family: "futura-pt", sans-serif;
         font-weight: 300;
         font-style: normal;
-        font-size: 40px;
+        font-size: 30px;
         margin-right: 5%;
         margin-left:4%;
     }
@@ -103,8 +103,8 @@ img{
 }
 
 #homebanner a:hover {
-    color: #000000;
-    border: 2px solid #000000;
+    color: rgb(232, 173, 56);
+    border: 2px solid rgb(186, 143, 58);
     border-radius: 30%;
     background-color: white;
     padding: 1%;

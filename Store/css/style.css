@@ -20,7 +20,7 @@ body{
         font-family: "sauna-new", sans-serif;
         font-weight: 900;
         font-style: normal;
-        font-size: 50px;
+        font-size: 40px;
         text-decoration: none;
         margin-left:4%;
         color: rgb(63, 53, 68);
@@ -74,7 +74,7 @@ img{
 }
 
 #homebanner a:hover {
-    color: rgb(63, 53, 68);
+    color: rgb(131, 108, 142);
     border: 2px solid rgb(63, 53, 68);
     border-radius: 30%;
     background-color: white;
